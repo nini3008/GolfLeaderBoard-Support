@@ -20,5 +20,3 @@ If you encounter any issues with the GolfLeaderBoard app, follow these steps:
 
 For additional inquiries or if you prefer email support, you can contact us at:  
 **Email**: jaydede2015@hotmail.com
-
-## License
