@@ -22,5 +22,3 @@ For additional inquiries or if you prefer email support, you can contact us at:
 **Email**: jaydede2015@hotmail.com
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
